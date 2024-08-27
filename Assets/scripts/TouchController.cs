@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-public class LimitedTouchAndImageSpawner : MonoBehaviour
+public class TouchController : MonoBehaviour
 {
     public Rect restrictedArea; // Define la zona restringida en coordenadas del mundo
     public Color gizmoColor = Color.red; // Color para dibujar el área restringida en la vista de escena
@@ -12,7 +12,7 @@ public class LimitedTouchAndImageSpawner : MonoBehaviour
     public GameObject image3Prefab;
 
     private GameObject selectedImagePrefab;
-    
+
 
     public Button button1; // Botón para seleccionar la imagen 1
     public Button button2; // Botón para seleccionar la imagen 2

@@ -1323,20 +1323,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 1008045402}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8709297e9aca4e44f87387522c4bcc2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 276db6e8fa4dfb84f9064b93e93cc7ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   restrictedArea:
     serializedVersion: 2
-    x: -3.61
-    y: -4.84
+    x: -3.6
+    y: -4.8
     width: 7.2
-    height: 8.06
+    height: 8.08
   gizmoColor: {r: 1, g: 0, b: 0, a: 1}
   image1Prefab: {fileID: 4334282615513329728, guid: bdb35594c4758094badead9d3c33cf06, type: 3}
   image2Prefab: {fileID: 2435072694729755313, guid: 1b969d979a7c5974cbb6e5e35ce96476, type: 3}
   image3Prefab: {fileID: 1236141138931438846, guid: 136690c81aa55a74a8b87fc6e78f2aa3, type: 3}
-  spriteRenderer: {fileID: 0}
   button1: {fileID: 364535529}
   button2: {fileID: 1648348953}
   button3: {fileID: 2145296929}
