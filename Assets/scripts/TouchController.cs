@@ -213,3 +213,4 @@ public class TouchController : MonoBehaviour
         Gizmos.DrawWireCube(new Vector3(restrictedArea.x + restrictedArea.width / 2, restrictedArea.y + restrictedArea.height / 2, 0), new Vector3(restrictedArea.width, restrictedArea.height, 0));
     }
 }
+

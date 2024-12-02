@@ -1,0 +1,94 @@
+{
+    "name": "Controller",
+    "maps": [
+        {
+            "name": "Base",
+            "id": "9f74156f-d827-4539-84a2-53337c5fa476",
+            "actions": [
+                {
+                    "name": "tap",
+                    "type": "Button",
+                    "id": "4a5de530-e2f3-4a6c-af21-615d57f152c1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "double tap",
+                    "type": "Button",
+                    "id": "b6c079c6-3b54-4666-a591-0cdef144cbd1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "swipe",
+                    "type": "Button",
+                    "id": "685ecf84-a0be-4189-96d6-fe0c1c52bd95",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "hold n drag ",
+                    "type": "Button",
+                    "id": "6b80cb8b-0d9a-4ee1-8fdc-437c3d9e068f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1b829f43-694d-4f6e-ade2-61b77f8a6792",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c3f0727a-7dba-4252-bb67-dd658c370101",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "double tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "04bd1eb7-d0ab-4fb4-8ec4-af1f80c9c95f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "swipe",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "76ac0dde-d624-4a67-94d8-2199d9201991",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "hold n drag ",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

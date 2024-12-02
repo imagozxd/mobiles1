@@ -1328,10 +1328,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   restrictedArea:
     serializedVersion: 2
-    x: -3.6
+    x: -6.43
     y: -4.8
-    width: 7.2
-    height: 8.08
+    width: 12.87
+    height: 7.51
   gizmoColor: {r: 1, g: 0, b: 0, a: 1}
   image1Prefab: {fileID: 4334282615513329728, guid: bdb35594c4758094badead9d3c33cf06, type: 3}
   image2Prefab: {fileID: 2435072694729755313, guid: 1b969d979a7c5974cbb6e5e35ce96476, type: 3}
@@ -2172,14 +2172,23 @@ TrailRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.2962916
-        value: 0.16216278
+        time: 0.26506042
+        value: 0.2786026
         inSlope: 0
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.97891563
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
